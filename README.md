@@ -3,7 +3,7 @@ Upload Your Contact Page
 On your new repository page, click Add File > Upload Files.
 Upload your contact.html file.
 Click Commit changes.
-Step 3: Enable GitHub Pages
+Step: Enable GitHub Pages
 Go to Settings in your repository.
 Scroll down to the Pages section.
 Under Branch, select main (or master) and / (root).
