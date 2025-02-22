@@ -76,8 +76,8 @@ Save this as contact.html:
     <div class="container">
         <h2>Contact Me</h2>
         <p>If you need to reach me, please use the details below:</p>
-        <p class="contact">📧 Email: your.email@example.com</p>
-        <p class="contact">📞 Phone: +123 456 7890</p>
+        <p class="contact">📧 Email: neerajsagi13@gmail.com</p>
+        <p class="contact">📞 Phone: +7013973335</p>
     </div>
 </body>
 </html>
